@@ -1,0 +1,11 @@
+*.h
+*.o
+*.exe
+*.log
+.idea/
+.DS_Store
+**/0000/
+*.pkl
+*.png
+__pycache__
+.ipynb_checkpoints

@@ -1,0 +1,198 @@
+run_seed,Condition,Frequency,Condition
+1,Control,0.3637446429109919,Control
+1,DAMGO,0.3199131937611251,DAMGO
+1,DAMGO + $G_{Leak} \times 0.5$,0.30137826572123994,DAMGO + $G_{Leak} \times 0.5$
+1,DAMGO + $G_{Leak} \times 0.7$,0.31559096662445957,DAMGO + $G_{Leak} \times 0.7$
+1,DAMGO + $G_{Leak} \times 0.9$,0.29730864715704886,DAMGO + $G_{Leak} \times 0.9$
+2,Control,0.41928369641807733,Control
+2,DAMGO,0.2741002524537001,DAMGO
+2,DAMGO + $G_{Leak} \times 0.5$,0.2927714696874697,DAMGO + $G_{Leak} \times 0.5$
+2,DAMGO + $G_{Leak} \times 0.7$,0.2646462818976493,DAMGO + $G_{Leak} \times 0.7$
+2,DAMGO + $G_{Leak} \times 0.9$,0.2548496859932005,DAMGO + $G_{Leak} \times 0.9$
+3,Control,0.3590548212558778,Control
+3,DAMGO,0.3395479338810209,DAMGO
+3,DAMGO + $G_{Leak} \times 0.5$,0.32180916296964557,DAMGO + $G_{Leak} \times 0.5$
+3,DAMGO + $G_{Leak} \times 0.7$,0.3581662712046134,DAMGO + $G_{Leak} \times 0.7$
+3,DAMGO + $G_{Leak} \times 0.9$,0.33686294278782947,DAMGO + $G_{Leak} \times 0.9$
+4,Control,0.35827192259009844,Control
+4,DAMGO,0.2999305124324503,DAMGO
+4,DAMGO + $G_{Leak} \times 0.5$,0.3223363114689521,DAMGO + $G_{Leak} \times 0.5$
+4,DAMGO + $G_{Leak} \times 0.7$,0.3296032935817016,DAMGO + $G_{Leak} \times 0.7$
+4,DAMGO + $G_{Leak} \times 0.9$,0.29647207597959724,DAMGO + $G_{Leak} \times 0.9$
+5,Control,0.393728187928688,Control
+5,DAMGO,0.31685112597980564,DAMGO
+5,DAMGO + $G_{Leak} \times 0.5$,0.3290311083354628,DAMGO + $G_{Leak} \times 0.5$
+5,DAMGO + $G_{Leak} \times 0.7$,0.3298723658027767,DAMGO + $G_{Leak} \times 0.7$
+5,DAMGO + $G_{Leak} \times 0.9$,0.3111518735379299,DAMGO + $G_{Leak} \times 0.9$
+6,Control,0.3686688854311717,Control
+6,DAMGO,0.33746139895566984,DAMGO
+6,DAMGO + $G_{Leak} \times 0.5$,0.3250785011231725,DAMGO + $G_{Leak} \times 0.5$
+6,DAMGO + $G_{Leak} \times 0.7$,0.33932655476803625,DAMGO + $G_{Leak} \times 0.7$
+6,DAMGO + $G_{Leak} \times 0.9$,0.32348500557986065,DAMGO + $G_{Leak} \times 0.9$
+7,Control,0.3983197272659003,Control
+7,DAMGO,0.2907565984332658,DAMGO
+7,DAMGO + $G_{Leak} \times 0.5$,0.33564132038658867,DAMGO + $G_{Leak} \times 0.5$
+7,DAMGO + $G_{Leak} \times 0.7$,0.3422984552822117,DAMGO + $G_{Leak} \times 0.7$
+7,DAMGO + $G_{Leak} \times 0.9$,0.3349772213501549,DAMGO + $G_{Leak} \times 0.9$
+8,Control,0.37330328341272107,Control
+8,DAMGO,0.30340183025321804,DAMGO
+8,DAMGO + $G_{Leak} \times 0.5$,0.4498582300335853,DAMGO + $G_{Leak} \times 0.5$
+8,DAMGO + $G_{Leak} \times 0.7$,0.2845450929935737,DAMGO + $G_{Leak} \times 0.7$
+8,DAMGO + $G_{Leak} \times 0.9$,0.2841166499306604,DAMGO + $G_{Leak} \times 0.9$
+9,Control,0.3942307646056026,Control
+9,DAMGO,0.3365575029787334,DAMGO
+9,DAMGO + $G_{Leak} \times 0.5$,0.27893860071641197,DAMGO + $G_{Leak} \times 0.5$
+9,DAMGO + $G_{Leak} \times 0.7$,0.3693428085781431,DAMGO + $G_{Leak} \times 0.7$
+9,DAMGO + $G_{Leak} \times 0.9$,0.356665026421646,DAMGO + $G_{Leak} \times 0.9$
+10,Control,0.3283052058612955,Control
+10,DAMGO,0.3812765757519408,DAMGO
+10,DAMGO + $G_{Leak} \times 0.9$,0.25807874491277505,DAMGO + $G_{Leak} \times 0.9$
+11,Control,0.37869914750352573,Control
+11,DAMGO,0.3801641459731765,DAMGO
+11,DAMGO + $G_{Leak} \times 0.5$,0.4541500967229272,DAMGO + $G_{Leak} \times 0.5$
+11,DAMGO + $G_{Leak} \times 0.7$,0.31380517003265007,DAMGO + $G_{Leak} \times 0.7$
+11,DAMGO + $G_{Leak} \times 0.9$,0.3144684020023015,DAMGO + $G_{Leak} \times 0.9$
+12,Control,0.3535052058469469,Control
+12,DAMGO,0.2676453879731489,DAMGO
+12,DAMGO + $G_{Leak} \times 0.5$,0.3282333787858758,DAMGO + $G_{Leak} \times 0.5$
+12,DAMGO + $G_{Leak} \times 0.7$,0.29583763302909977,DAMGO + $G_{Leak} \times 0.7$
+12,DAMGO + $G_{Leak} \times 0.9$,0.2657177765839025,DAMGO + $G_{Leak} \times 0.9$
+13,Control,0.36508553975708835,Control
+13,DAMGO,0.3228626942984738,DAMGO
+13,DAMGO + $G_{Leak} \times 0.5$,0.2349176034987944,DAMGO + $G_{Leak} \times 0.5$
+13,DAMGO + $G_{Leak} \times 0.7$,0.2991353456249356,DAMGO + $G_{Leak} \times 0.7$
+13,DAMGO + $G_{Leak} \times 0.9$,0.30402168608730856,DAMGO + $G_{Leak} \times 0.9$
+14,Control,0.3779473961051411,Control
+14,DAMGO,0.3725047524374134,DAMGO
+14,DAMGO + $G_{Leak} \times 0.5$,0.5919146931278003,DAMGO + $G_{Leak} \times 0.5$
+14,DAMGO + $G_{Leak} \times 0.7$,0.43305921660326335,DAMGO + $G_{Leak} \times 0.7$
+14,DAMGO + $G_{Leak} \times 0.9$,0.35259710188422505,DAMGO + $G_{Leak} \times 0.9$
+15,Control,0.39507888497188637,Control
+15,DAMGO,0.3775071321232872,DAMGO
+15,DAMGO + $G_{Leak} \times 0.5$,0.36313219056584084,DAMGO + $G_{Leak} \times 0.5$
+15,DAMGO + $G_{Leak} \times 0.7$,0.3616815359989807,DAMGO + $G_{Leak} \times 0.7$
+15,DAMGO + $G_{Leak} \times 0.9$,0.3582660710805696,DAMGO + $G_{Leak} \times 0.9$
+16,Control,0.44635025471383327,Control
+16,DAMGO,0.2961428590820388,DAMGO
+16,DAMGO + $G_{Leak} \times 0.5$,0.3256953725610926,DAMGO + $G_{Leak} \times 0.5$
+16,DAMGO + $G_{Leak} \times 0.7$,0.2814832424762674,DAMGO + $G_{Leak} \times 0.7$
+16,DAMGO + $G_{Leak} \times 0.9$,0.22146608577825028,DAMGO + $G_{Leak} \times 0.9$
+17,Control,0.4054067477147957,Control
+17,DAMGO,0.3316403212067533,DAMGO
+17,DAMGO + $G_{Leak} \times 0.5$,0.3836291881563798,DAMGO + $G_{Leak} \times 0.5$
+17,DAMGO + $G_{Leak} \times 0.7$,0.36734494276468277,DAMGO + $G_{Leak} \times 0.7$
+17,DAMGO + $G_{Leak} \times 0.9$,0.24074160860588703,DAMGO + $G_{Leak} \times 0.9$
+18,Control,0.37646272266372793,Control
+18,DAMGO,0.34083043311173633,DAMGO
+18,DAMGO + $G_{Leak} \times 0.5$,0.37918183013034645,DAMGO + $G_{Leak} \times 0.5$
+18,DAMGO + $G_{Leak} \times 0.7$,0.33797150424017425,DAMGO + $G_{Leak} \times 0.7$
+18,DAMGO + $G_{Leak} \times 0.9$,0.3241346378495594,DAMGO + $G_{Leak} \times 0.9$
+19,Control,0.36245977794108303,Control
+19,DAMGO,0.30282524096677177,DAMGO
+19,DAMGO + $G_{Leak} \times 0.5$,0.3371861270917714,DAMGO + $G_{Leak} \times 0.5$
+19,DAMGO + $G_{Leak} \times 0.7$,0.3248241916932249,DAMGO + $G_{Leak} \times 0.7$
+19,DAMGO + $G_{Leak} \times 0.9$,0.32807795319367494,DAMGO + $G_{Leak} \times 0.9$
+20,Control,0.4350241029937802,Control
+20,DAMGO,0.27682183462617416,DAMGO
+20,DAMGO + $G_{Leak} \times 0.5$,0.3711435819129827,DAMGO + $G_{Leak} \times 0.5$
+20,DAMGO + $G_{Leak} \times 0.7$,0.30629390682931973,DAMGO + $G_{Leak} \times 0.7$
+21,Control,0.35744447116673933,Control
+21,DAMGO,0.2526026801579147,DAMGO
+21,DAMGO + $G_{Leak} \times 0.5$,0.2964238849273487,DAMGO + $G_{Leak} \times 0.5$
+21,DAMGO + $G_{Leak} \times 0.7$,0.3249300042143337,DAMGO + $G_{Leak} \times 0.7$
+21,DAMGO + $G_{Leak} \times 0.9$,0.2481668506879222,DAMGO + $G_{Leak} \times 0.9$
+22,Control,0.40557915094337665,Control
+22,DAMGO,0.2816094134599334,DAMGO
+22,DAMGO + $G_{Leak} \times 0.5$,0.29670032279871705,DAMGO + $G_{Leak} \times 0.5$
+22,DAMGO + $G_{Leak} \times 0.7$,0.2916524699694964,DAMGO + $G_{Leak} \times 0.7$
+22,DAMGO + $G_{Leak} \times 0.9$,0.2616433652348649,DAMGO + $G_{Leak} \times 0.9$
+23,Control,0.4146549387182763,Control
+23,DAMGO,0.31604507567814727,DAMGO
+23,DAMGO + $G_{Leak} \times 0.5$,0.28446723282787995,DAMGO + $G_{Leak} \times 0.5$
+23,DAMGO + $G_{Leak} \times 0.7$,0.3359572182777071,DAMGO + $G_{Leak} \times 0.7$
+23,DAMGO + $G_{Leak} \times 0.9$,0.29059370701871334,DAMGO + $G_{Leak} \times 0.9$
+24,Control,0.39131387900606135,Control
+24,DAMGO,0.34523214741221253,DAMGO
+24,DAMGO + $G_{Leak} \times 0.5$,0.3915685860957095,DAMGO + $G_{Leak} \times 0.5$
+24,DAMGO + $G_{Leak} \times 0.7$,0.34428528852698276,DAMGO + $G_{Leak} \times 0.7$
+24,DAMGO + $G_{Leak} \times 0.9$,0.3100460073054585,DAMGO + $G_{Leak} \times 0.9$
+25,Control,0.37131943810723284,Control
+25,DAMGO,0.348098201026491,DAMGO
+25,DAMGO + $G_{Leak} \times 0.5$,0.3186607956415281,DAMGO + $G_{Leak} \times 0.5$
+25,DAMGO + $G_{Leak} \times 0.7$,0.3291092606182387,DAMGO + $G_{Leak} \times 0.7$
+25,DAMGO + $G_{Leak} \times 0.9$,0.32123772269198103,DAMGO + $G_{Leak} \times 0.9$
+26,Control,0.39794434782183113,Control
+26,DAMGO,0.3317006932327234,DAMGO
+26,DAMGO + $G_{Leak} \times 0.5$,0.380871106829887,DAMGO + $G_{Leak} \times 0.5$
+26,DAMGO + $G_{Leak} \times 0.7$,0.2979337904767457,DAMGO + $G_{Leak} \times 0.7$
+26,DAMGO + $G_{Leak} \times 0.9$,0.29888848850969635,DAMGO + $G_{Leak} \times 0.9$
+27,Control,0.42078162706474087,Control
+27,DAMGO,0.30520147422639377,DAMGO
+27,DAMGO + $G_{Leak} \times 0.5$,0.3649893119307424,DAMGO + $G_{Leak} \times 0.5$
+27,DAMGO + $G_{Leak} \times 0.7$,0.30382833051280544,DAMGO + $G_{Leak} \times 0.7$
+27,DAMGO + $G_{Leak} \times 0.9$,0.2665993428396686,DAMGO + $G_{Leak} \times 0.9$
+28,Control,0.3546977374857194,Control
+28,DAMGO,0.371361204657665,DAMGO
+28,DAMGO + $G_{Leak} \times 0.5$,0.35233277510585215,DAMGO + $G_{Leak} \times 0.5$
+28,DAMGO + $G_{Leak} \times 0.7$,0.3524510949399816,DAMGO + $G_{Leak} \times 0.7$
+28,DAMGO + $G_{Leak} \times 0.9$,0.3397472469441657,DAMGO + $G_{Leak} \times 0.9$
+29,Control,0.39503651300100445,Control
+29,DAMGO,0.3253559629230896,DAMGO
+29,DAMGO + $G_{Leak} \times 0.5$,0.3572495565897483,DAMGO + $G_{Leak} \times 0.5$
+29,DAMGO + $G_{Leak} \times 0.7$,0.3392974128047374,DAMGO + $G_{Leak} \times 0.7$
+29,DAMGO + $G_{Leak} \times 0.9$,0.3174533663251903,DAMGO + $G_{Leak} \times 0.9$
+30,Control,0.33467662850177243,Control
+30,DAMGO,0.3248364683596742,DAMGO
+30,DAMGO + $G_{Leak} \times 0.5$,0.34439147040792006,DAMGO + $G_{Leak} \times 0.5$
+30,DAMGO + $G_{Leak} \times 0.7$,0.35863030311912536,DAMGO + $G_{Leak} \times 0.7$
+30,DAMGO + $G_{Leak} \times 0.9$,0.32832382652501113,DAMGO + $G_{Leak} \times 0.9$
+31,Control,0.3914380813052378,Control
+31,DAMGO,0.3654806822095688,DAMGO
+31,DAMGO + $G_{Leak} \times 0.5$,0.3806101490224638,DAMGO + $G_{Leak} \times 0.5$
+31,DAMGO + $G_{Leak} \times 0.7$,0.3593012769507022,DAMGO + $G_{Leak} \times 0.7$
+31,DAMGO + $G_{Leak} \times 0.9$,0.3402449499826521,DAMGO + $G_{Leak} \times 0.9$
+32,Control,0.35247598899261273,Control
+32,DAMGO,0.35775189085170733,DAMGO
+32,DAMGO + $G_{Leak} \times 0.5$,0.24774763254203389,DAMGO + $G_{Leak} \times 0.5$
+32,DAMGO + $G_{Leak} \times 0.7$,0.3214422458004504,DAMGO + $G_{Leak} \times 0.7$
+32,DAMGO + $G_{Leak} \times 0.9$,0.323106266389387,DAMGO + $G_{Leak} \times 0.9$
+33,Control,0.5026906383236811,Control
+33,DAMGO,0.35113040782373395,DAMGO
+33,DAMGO + $G_{Leak} \times 0.5$,0.4182699631138023,DAMGO + $G_{Leak} \times 0.5$
+33,DAMGO + $G_{Leak} \times 0.7$,0.42825073460349894,DAMGO + $G_{Leak} \times 0.7$
+33,DAMGO + $G_{Leak} \times 0.9$,0.34732355790282915,DAMGO + $G_{Leak} \times 0.9$
+34,Control,0.34920851725297625,Control
+34,DAMGO,0.29983554633744064,DAMGO
+34,DAMGO + $G_{Leak} \times 0.5$,0.4148923909217041,DAMGO + $G_{Leak} \times 0.5$
+34,DAMGO + $G_{Leak} \times 0.7$,0.35455132300266645,DAMGO + $G_{Leak} \times 0.7$
+34,DAMGO + $G_{Leak} \times 0.9$,0.23798901241559292,DAMGO + $G_{Leak} \times 0.9$
+35,Control,0.3901133795718392,Control
+35,DAMGO,0.2891269868058083,DAMGO
+35,DAMGO + $G_{Leak} \times 0.5$,0.30768126615805647,DAMGO + $G_{Leak} \times 0.5$
+35,DAMGO + $G_{Leak} \times 0.7$,0.29908622068036844,DAMGO + $G_{Leak} \times 0.7$
+35,DAMGO + $G_{Leak} \times 0.9$,0.26600506739255203,DAMGO + $G_{Leak} \times 0.9$
+36,Control,0.3853416092551486,Control
+36,DAMGO,0.37595268204170196,DAMGO
+36,DAMGO + $G_{Leak} \times 0.5$,0.351850905434264,DAMGO + $G_{Leak} \times 0.5$
+36,DAMGO + $G_{Leak} \times 0.7$,0.33295089514664583,DAMGO + $G_{Leak} \times 0.7$
+36,DAMGO + $G_{Leak} \times 0.9$,0.32938223691018087,DAMGO + $G_{Leak} \times 0.9$
+37,Control,0.40021124018622406,Control
+37,DAMGO,0.39863486400288656,DAMGO
+37,DAMGO + $G_{Leak} \times 0.5$,0.3487334968774724,DAMGO + $G_{Leak} \times 0.5$
+37,DAMGO + $G_{Leak} \times 0.7$,0.35718507942619565,DAMGO + $G_{Leak} \times 0.7$
+37,DAMGO + $G_{Leak} \times 0.9$,0.3405943505585061,DAMGO + $G_{Leak} \times 0.9$
+38,Control,0.38626439055881223,Control
+38,DAMGO,0.32282289430329647,DAMGO
+38,DAMGO + $G_{Leak} \times 0.5$,0.360349527278652,DAMGO + $G_{Leak} \times 0.5$
+38,DAMGO + $G_{Leak} \times 0.7$,0.3762303348426463,DAMGO + $G_{Leak} \times 0.7$
+38,DAMGO + $G_{Leak} \times 0.9$,0.35057027729606366,DAMGO + $G_{Leak} \times 0.9$
+39,Control,0.4090748481078265,Control
+39,DAMGO,0.3693322289105272,DAMGO
+39,DAMGO + $G_{Leak} \times 0.5$,0.42391914977717304,DAMGO + $G_{Leak} \times 0.5$
+39,DAMGO + $G_{Leak} \times 0.7$,0.40099052893333703,DAMGO + $G_{Leak} \times 0.7$
+39,DAMGO + $G_{Leak} \times 0.9$,0.3291688893999486,DAMGO + $G_{Leak} \times 0.9$
+40,Control,0.40338270579588265,Control
+40,DAMGO,0.38889041150055226,DAMGO
+40,DAMGO + $G_{Leak} \times 0.5$,0.342997408395849,DAMGO + $G_{Leak} \times 0.5$
+40,DAMGO + $G_{Leak} \times 0.7$,0.34142623451304577,DAMGO + $G_{Leak} \times 0.7$
+40,DAMGO + $G_{Leak} \times 0.9$,0.2723954489070866,DAMGO + $G_{Leak} \times 0.9$
