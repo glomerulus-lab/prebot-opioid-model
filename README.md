@@ -2,7 +2,7 @@
 
 This repository uses the [Brian 2](https://brian2.readthedocs.io/en/stable/) neural simulator (Python) to run simulations perturbing Pre-Bötzinger complex neuronal networks and analyze the resulting data. Published as:
 
-GM Chou, NE Bush, RS Phillips, NA Baertsch, KD Harris. [Modeling effects of variable preBötzinger complex network topology and cellular properties on opioid-induced respiratory depression and recovery] (https://doi.org/10.1101/2023.08.29.555355). In press, eNeuro.
+GM Chou, NE Bush, RS Phillips, NA Baertsch, KD Harris. [Modeling effects of variable preBötzinger complex network topology and cellular properties on opioid-induced respiratory depression and recovery](https://doi.org/10.1101/2023.08.29.555355). In press, eNeuro.
 
 ## Subdirectories and files
 - **brian_utils/** - Utility functions to be used for postprocessing and analysis
